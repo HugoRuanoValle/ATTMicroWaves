@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="DS - ring request load sites" max_length="40" name="u_ring_request_load_sites" sizeclass="6426" type="collection">
+        <element attributes="import_attribute_name=Conteo" label="Conteo" max_length="40" name="u_conteo" type="integer"/>
+        <element attributes="import_attribute_name=Fiber/Mw,edge_encryption_enabled=true" label="Fiber/Mw" max_length="40" name="u_fiber_mw" type="string"/>
+        <element attributes="import_attribute_name=Frequency" label="Frequency" max_length="40" name="u_frequency" type="integer"/>
+        <element attributes="import_attribute_name=hub/site,edge_encryption_enabled=true" label="hub/site" max_length="40" name="u_hub_site" type="string"/>
+        <element attributes="import_attribute_name=Identificador,edge_encryption_enabled=true" label="Identificador" max_length="40" name="u_identificador" type="string"/>
+        <element attributes="import_attribute_name=Mw Repeater,edge_encryption_enabled=true" label="Mw Repeater" max_length="40" name="u_mw_repeater" type="string"/>
+        <element attributes="import_attribute_name=Path length" label="Path length" max_length="15" name="u_path_length" type="decimal"/>
+        <element attributes="import_attribute_name=Site 1 Antenna diameter" label="Site 1 Antenna diameter" max_length="15" name="u_site_1_antenna_diameter" type="decimal"/>
+        <element attributes="import_attribute_name=Site 1 Antenna height" label="Site 1 Antenna height" max_length="40" name="u_site_1_antenna_height" type="integer"/>
+        <element attributes="import_attribute_name=Site 1 Antenna model,edge_encryption_enabled=true" label="Site 1 Antenna model" max_length="40" name="u_site_1_antenna_model" type="string"/>
+        <element attributes="import_attribute_name=Site 1 Azimuth (ｰ)" label="Site 1 Azimuth (ｰ)" max_length="15" name="u_site_1_azimuth__ｰ_" type="decimal"/>
+        <element attributes="import_attribute_name=Site 1 Latitude" label="Site 1 Latitude" max_length="40" name="u_site_1_latitude" type="float"/>
+        <element attributes="import_attribute_name=Site 1 Longitude" label="Site 1 Longitude" max_length="40" name="u_site_1_longitude" type="float"/>
+        <element attributes="import_attribute_name=Site 1 Name,edge_encryption_enabled=true" label="Site 1 Name" max_length="40" name="u_site_1_name" type="string"/>
+        <element attributes="import_attribute_name=Site 2 Antenna diameter" label="Site 2 Antenna diameter" max_length="15" name="u_site_2_antenna_diameter" type="decimal"/>
+        <element attributes="import_attribute_name=Site 2 Antenna height" label="Site 2 Antenna height" max_length="40" name="u_site_2_antenna_height" type="integer"/>
+        <element attributes="import_attribute_name=Site 2 Antenna model,edge_encryption_enabled=true" label="Site 2 Antenna model" max_length="40" name="u_site_2_antenna_model" type="string"/>
+        <element attributes="import_attribute_name=Site 2 Azimuth (ｰ)" label="Site 2 Azimuth (ｰ)" max_length="15" name="u_site_2_azimuth__ｰ_" type="decimal"/>
+        <element attributes="import_attribute_name=Site 2 Latitude" label="Site 2 Latitude" max_length="40" name="u_site_2_latitude" type="float"/>
+        <element attributes="import_attribute_name=Site 2 Longitude" label="Site 2 Longitude" max_length="40" name="u_site_2_longitude" type="float"/>
+        <element attributes="import_attribute_name=Site 2 Name,edge_encryption_enabled=true" label="Site 2 Name" max_length="40" name="u_site_2_name" type="string"/>
+    </element>
+</database>

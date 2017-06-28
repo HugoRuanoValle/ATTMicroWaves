@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Micro Waves</name>
+        <order/>
+        <roles>x_attme_micro_wave.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>jerico.flores</sys_created_by>
+        <sys_created_on>2017-05-29 15:52:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>98520e9ddb837200e7bbdbbb5e961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Micro Waves</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Micro Waves" source="x_attme_micro_wave">db428e99db837200e7bbdbbb5e961916</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Micro Waves">db428e99db837200e7bbdbbb5e961916</sys_scope>
+        <sys_update_name>sys_ui_application_98520e9ddb837200e7bbdbbb5e961977</sys_update_name>
+        <sys_updated_by>jerico.flores</sys_updated_by>
+        <sys_updated_on>2017-05-29 15:52:49</sys_updated_on>
+    </sys_ui_application>
+</record_update>

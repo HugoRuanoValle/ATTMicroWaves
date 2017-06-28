@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="RF Information" max_length="40" name="x_attme_micro_wave_rf_information" type="collection">
+        <element label="Antenna Height - AMSL (m)" max_length="40" name="antenna_height_amsl" type="integer"/>
+        <element label="Antenna Model" max_length="40" name="antenna_model" type="string"/>
+        <element label="Azimuth (deg) / True North" max_length="40" name="azimuth_deg_true_north" type="integer"/>
+        <element label="Coverage Objectives" max_length="40" name="coverage_objectives" type="string"/>
+        <element label="E-Tilt (deg)" max_length="40" name="e_tilt_deg" type="string"/>
+        <element label="M-Tilt (deg)" max_length="40" name="m_tilt_deg" type="integer"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Number of Antennas" max_length="40" name="number_of_antennas" type="integer"/>
+        <element label="Number of RRus" max_length="40" name="number_of_rrus" type="integer"/>
+        <element label="Ring Request" max_length="32" name="ring_request" reference="x_attme_micro_wave_ring_request" type="reference"/>
+        <element label="RRU Model" max_length="40" name="rru_model" type="string"/>
+        <element choice="1" label="Sector" max_length="40" name="sector" type="choice">
+            <choice>
+                <element label="Alpha" sequence="0" value="Alpha"/>
+                <element label="Beta" sequence="1" value="Beta"/>
+                <element label="Gamma" sequence="2" value="Gamma"/>
+                <element label="Epsilon" sequence="3" value="Epsilon"/>
+                <element label="Zeta" sequence="4" value="Zeta"/>
+                <element label="Eta" sequence="5" value="Eta"/>
+            </choice>
+        </element>
+        <element label="TMA (Y/N)" max_length="40" name="tma_y_n" type="boolean"/>
+        <index name="index">
+            <element name="ring_request"/>
+        </index>
+    </element>
+</database>

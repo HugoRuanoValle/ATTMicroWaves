@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fiber_mw" table="x_attme_micro_wave_transmission_information" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fiber_mw</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mw</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_transmission_information</name>
+            <sequence>0</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 19:28:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8df98950dbd33600e7bbdbbb5e9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 19:28:20</sys_updated_on>
+            <value>Mw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fiber_mw</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fiber</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_transmission_information</name>
+            <sequence>1</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 19:28:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05f98950dbd33600e7bbdbbb5e9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 19:28:20</sys_updated_on>
+            <value>Fiber</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fiber_mw</element>
+            <name>x_attme_micro_wave_transmission_information</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 19:28:20</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>41f98950dbd33600e7bbdbbb5e9619ff</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>fiber_mw</sys_name>
+            <sys_package display_value="Micro Waves" source="x_attme_micro_wave">db428e99db837200e7bbdbbb5e961916</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Micro Waves">db428e99db837200e7bbdbbb5e961916</sys_scope>
+            <sys_update_name>sys_choice_x_attme_micro_wave_transmission_information_fiber_mw</sys_update_name>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 19:28:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

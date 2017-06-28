@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sector" table="x_attme_micro_wave_rf_information" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Alpha</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_rf_information</name>
+            <sequence>0</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 18:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>482d3c5cdb933600e7bbdbbb5e96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 18:32:18</sys_updated_on>
+            <value>Alpha</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beta</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_rf_information</name>
+            <sequence>1</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 18:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc2d3c5cdb933600e7bbdbbb5e96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 18:32:18</sys_updated_on>
+            <value>Beta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gamma</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_rf_information</name>
+            <sequence>2</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 18:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c02d3c5cdb933600e7bbdbbb5e961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 18:32:18</sys_updated_on>
+            <value>Gamma</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Epsilon</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_rf_information</name>
+            <sequence>3</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 18:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c42d3c5cdb933600e7bbdbbb5e961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 18:32:18</sys_updated_on>
+            <value>Epsilon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Zeta</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_rf_information</name>
+            <sequence>4</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 18:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c82d3c5cdb933600e7bbdbbb5e961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 18:32:18</sys_updated_on>
+            <value>Zeta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Eta</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_rf_information</name>
+            <sequence>5</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 18:32:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc2d3c5cdb933600e7bbdbbb5e961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 18:32:18</sys_updated_on>
+            <value>Eta</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sector</element>
+            <name>x_attme_micro_wave_rf_information</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 18:32:18</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0c2d3c5cdb933600e7bbdbbb5e96196f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>sector</sys_name>
+            <sys_package display_value="Micro Waves" source="x_attme_micro_wave">db428e99db837200e7bbdbbb5e961916</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Micro Waves">db428e99db837200e7bbdbbb5e961916</sys_scope>
+            <sys_update_name>sys_choice_x_attme_micro_wave_rf_information_sector</sys_update_name>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 18:32:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

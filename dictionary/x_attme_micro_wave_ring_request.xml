@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Ring Request" max_length="40" name="x_attme_micro_wave_ring_request" sizeclass="3" type="collection">
+        <element label="Assignment Start Date" max_length="40" name="assignment_date" type="glide_date"/>
+        <element label="Cluster" max_length="40" name="cluster" type="string"/>
+        <element choice="1" label="Datum" max_length="40" name="datum" type="choice">
+            <choice>
+                <element label="WGS84" sequence="0" value="WGS84"/>
+            </choice>
+        </element>
+        <element label="Delegation" max_length="40" name="delegation" type="string"/>
+        <element label="Designated Colocation (Y/N)" max_length="40" name="designated_colocation_y_n" type="boolean"/>
+        <element label="Designated Overlay (Y/N)" max_length="40" name="designated_overlay_y_n" type="boolean"/>
+        <element label="Existing Site ID / CMS" max_length="40" name="existing_site_id_cms" type="string"/>
+        <element label="Existing Site Name" max_length="40" name="existing_site_name" type="string"/>
+        <element label="Generate By (RF Engineer)" max_length="40" name="generate_by_rf_engineer" type="string"/>
+        <element label="Latitude (Decimal-4Dgt)" max_length="40" name="latitude_decimal_4dgt" type="float"/>
+        <element label="Load File" max_length="40" name="load_file" type="boolean"/>
+        <element label="Longitude (Decimal-4Dgt)" max_length="40" name="longitude_decimal_4dgt" type="float"/>
+        <element label="Market Name" max_length="40" name="market_name" type="string"/>
+        <element choice="1" label="Morphology" max_length="40" name="morphology" type="choice">
+            <choice>
+                <element label="Suburban" sequence="0" value="Suburban"/>
+            </choice>
+        </element>
+        <element label="Municipality" max_length="40" name="municipality" type="string"/>
+        <element label="Owner" max_length="40" name="owner" type="string"/>
+        <element label="Project ID" max_length="40" name="project_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Project Type" max_length="40" name="project_type" type="string">
+            <choice>
+                <element label="New Sites" sequence="0" value="New Sites"/>
+                <element label="Overlate" sequence="1" value="Overlate"/>
+                <element label="Special Events" sequence="2" value="Special Events"/>
+            </choice>
+        </element>
+        <element label="Received By" max_length="32" name="received_by" reference="sys_user" type="reference"/>
+        <element label="Received Date" max_length="40" name="received_date" type="glide_date_time"/>
+        <element label="Region" max_length="40" name="region" type="string"/>
+        <element attributes="pdf_cell_type=image" label="Satellite/Google Earth" max_length="40" name="satellite_google_earth" type="user_image"/>
+        <element label="Search Ring Radius (m)" max_length="40" name="search_ring_radius_m" type="integer"/>
+        <element label="Search Ring Version" max_length="40" name="search_ring_version" type="integer"/>
+        <element label="Site ID" max_length="40" name="site_id" type="string"/>
+        <element choice="1" label="Site Type" max_length="40" name="site_type" type="choice">
+            <choice>
+                <element label="Movil" sequence="0" value="Movil"/>
+            </choice>
+        </element>
+        <element label="Year" max_length="40" name="year" type="string"/>
+    </element>
+</database>

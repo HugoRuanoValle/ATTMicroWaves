@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Sites Information" section_id="18325d14dbd33600e7bbdbbb5e96193e" sys_domain="global" table="x_attme_micro_wave_sites" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>56425d14dbd33600e7bbdbbb5e9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <text>Site 1</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>d6425d14dbd33600e7bbdbbb5e9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <text>Site 2</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>56425d14dbd33600e7bbdbbb5e9619e0</element>
+            <position>0</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>5a425d14dbd33600e7bbdbbb5e9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_1_name</element>
+            <position>1</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>da425d14dbd33600e7bbdbbb5e9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_1_latitude</element>
+            <position>2</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>5e425d14dbd33600e7bbdbbb5e9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_1_longitude</element>
+            <position>3</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>de425d14dbd33600e7bbdbbb5e9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_1_azimuth</element>
+            <position>4</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>52425d14dbd33600e7bbdbbb5e9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_1_antenna_model</element>
+            <position>5</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>d2425d14dbd33600e7bbdbbb5e9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_1_antenna_height</element>
+            <position>6</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>56425d14dbd33600e7bbdbbb5e9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_1_antenna_diameter</element>
+            <position>7</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>d6425d14dbd33600e7bbdbbb5e9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>5a425d14dbd33600e7bbdbbb5e9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d6425d14dbd33600e7bbdbbb5e9619e0</element>
+            <position>9</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>da425d14dbd33600e7bbdbbb5e9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_2_name</element>
+            <position>10</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>5e425d14dbd33600e7bbdbbb5e9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_2_latitude</element>
+            <position>11</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>de425d14dbd33600e7bbdbbb5e9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_2_longitude</element>
+            <position>12</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>52425d14dbd33600e7bbdbbb5e9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_2_azimuth</element>
+            <position>13</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>d2425d14dbd33600e7bbdbbb5e9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_2_antenna_model</element>
+            <position>14</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>56425d14dbd33600e7bbdbbb5e9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_2_antenna_height</element>
+            <position>15</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>d6425d14dbd33600e7bbdbbb5e9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>site_2_antenna_diameter</element>
+            <position>16</position>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:45</sys_created_on>
+            <sys_id>5a425d14dbd33600e7bbdbbb5e9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sites Information" display_value="Sites Information" name="x_attme_micro_wave_sites" sys_domain="global" view="Default view">18325d14dbd33600e7bbdbbb5e96193e</sys_ui_section>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Sites Information</caption>
+            <header>false</header>
+            <name>x_attme_micro_wave_sites</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:04:20</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18325d14dbd33600e7bbdbbb5e96193e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sites Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Micro Waves" source="x_attme_micro_wave">db428e99db837200e7bbdbbb5e961916</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Micro Waves">db428e99db837200e7bbdbbb5e961916</sys_scope>
+            <sys_update_name>sys_ui_section_18325d14dbd33600e7bbdbbb5e96193e</sys_update_name>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:04:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

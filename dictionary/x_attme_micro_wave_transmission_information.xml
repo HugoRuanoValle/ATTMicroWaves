@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Transmission Information" max_length="40" name="x_attme_micro_wave_transmission_information" type="collection">
+        <element label="Antenna Diameter (m)" max_length="40" name="antenna_diameter_m" type="float"/>
+        <element label="Antenna Height - AMSL (m)" max_length="40" name="antenna_height_amsl_m" type="float"/>
+        <element label="Azimuth (deg) / True North" max_length="40" name="azimuth_deg_true_north" type="float"/>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element choice="1" label="Fiber / MW" max_length="40" name="fiber_mw" type="choice">
+            <choice>
+                <element label="Mw" sequence="0" value="Mw"/>
+                <element label="Fiber" sequence="1" value="Fiber"/>
+            </choice>
+        </element>
+        <element label="Hub Site (Y/N)" max_length="40" name="hub_site_y_n" type="string"/>
+        <element choice="1" label="MW Link" max_length="40" name="mw_link" type="choice">
+            <choice>
+                <element label="MW 1" sequence="0" value="MW 1"/>
+                <element label="MW 2" sequence="1" value="MW 2"/>
+                <element label="MW 3" sequence="2" value="MW 3"/>
+                <element label="MW 4" sequence="3" value="MW 4"/>
+                <element label="MW 5" sequence="4" value="MW 5"/>
+            </choice>
+        </element>
+        <element label="MW Repeater" max_length="40" name="mw_repeater" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Operation Frequency (GHz)" max_length="40" name="operation_frequency_ghz" type="float"/>
+        <element label="Option Number" max_length="40" name="option_number" type="string"/>
+        <element label="Remote Site ID" max_length="40" name="remote_site_id" type="string"/>
+        <element label="Ring Request" max_length="32" name="ring_request" reference="x_attme_micro_wave_ring_request" type="reference"/>
+        <index name="index">
+            <element name="ring_request"/>
+        </index>
+    </element>
+</database>

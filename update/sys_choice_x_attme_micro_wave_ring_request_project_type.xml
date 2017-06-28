@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="project_type" table="x_attme_micro_wave_ring_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Sites</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_ring_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6d31d14dbd33600e7bbdbbb5e961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:11:35</sys_updated_on>
+            <value>New Sites</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Overlate</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_ring_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26d31d14dbd33600e7bbdbbb5e961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:11:35</sys_updated_on>
+            <value>Overlate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Special Events</label>
+            <language>en</language>
+            <name>x_attme_micro_wave_ring_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:11:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eed31d14dbd33600e7bbdbbb5e961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:11:35</sys_updated_on>
+            <value>Special Events</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>project_type</element>
+            <name>x_attme_micro_wave_ring_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jerico.flores</sys_created_by>
+            <sys_created_on>2017-06-07 20:11:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>62d31d14dbd33600e7bbdbbb5e961958</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>project_type</sys_name>
+            <sys_package display_value="Micro Waves" source="x_attme_micro_wave">db428e99db837200e7bbdbbb5e961916</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Micro Waves">db428e99db837200e7bbdbbb5e961916</sys_scope>
+            <sys_update_name>sys_choice_x_attme_micro_wave_ring_request_project_type</sys_update_name>
+            <sys_updated_by>jerico.flores</sys_updated_by>
+            <sys_updated_on>2017-06-07 20:11:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

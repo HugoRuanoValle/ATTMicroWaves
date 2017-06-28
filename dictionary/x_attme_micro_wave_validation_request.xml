@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Validation Request" max_length="40" name="x_attme_micro_wave_validation_request" sizeclass="1" type="collection">
+        <element label="Site ID" max_length="32" name="site_id" reference="x_attme_micro_wave_sites" type="reference"/>
+    </element>
+</database>
